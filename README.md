@@ -1,2 +1,2 @@
-# POSCO AI & BIGDATA 아카데미 프로젝트 
+POSCO AI & BIGDATA 아카데미 프로젝트 (2020.01.13 ~ 2020.06.05)
 
